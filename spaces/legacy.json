@@ -1,0 +1,14 @@
+{
+  "Exohood": {
+    "name": "Exohood",
+    "network": "1",
+    "symbol": "EXO",
+    "strategies": [
+      {
+        "name": "erc20-balance-of",
+        "params": {
+          "address": "0x117920e01D5dF0688DdB75336f82b04415Ff726D",
+          "symbol": "EXO",
+          "decimals": 18
+        }
+ 
