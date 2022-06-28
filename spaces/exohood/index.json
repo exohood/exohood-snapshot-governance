@@ -1,6 +1,6 @@
 {
-  "key": "exohood",
-  "symbol": "EXOVote",
+  "key": "Exohood",
+  "symbol": "EXO",
   "chainId": 1, 
   "decimals": 18, 
   "name": "Exohood",
@@ -8,11 +8,8 @@
   "address": "0x7d10b6157c7c577caa62d319dc215209cf2db8c3",
   "token": "0x7d10b6157c7c577caa62d319dc215209cf2db8c3",
   "core": [
-    "0x0594d6ac776f46837f2ecc16cd6b8f4a616eed4b",
-    "0x156dd746a820b7e4c6eab9e40ce3a4b2318c8201",
-    "0x600a2ccc7c8779af245dec3cae9d430ffac27491",
-    "0x8778f4d4ea6ae699dc5f97ac318bdb3d9bbc20a4",
+    "0x117920e01D5dF0688DdB75336f82b04415Ff726D",
   ],
-  "min": 1000,
+  "min": 500000,
   "invalid": []
 }
