@@ -1,9 +1,10 @@
 {
-  "name": "@bonustrack/snapshot-spaces",
+  "name": "@exohood/exohood-snapshot-governance",
   "version": "0.1.0",
-  "repository": "bonustrack/snapshot-spaces",
+  "repository": "exohood/exohood-snapshot-governance",
   "license": "MIT",
   "files": [
-    "spaces"
+    "spaces",
+    "skins"
   ]
 }
